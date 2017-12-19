@@ -28,8 +28,8 @@ $jsonlint file.json
 {
   "age": 19,
   "email_nickname": "petrov_ivan_98@ya.ru",
-  "first_name": "Ivan",
+  "first_name": "Michael355",
   "last_name": "Petrov",
-  "phone": "8(800)555-35-35"
+  "phone": "8(916)347-33-35"
 }
 ```
