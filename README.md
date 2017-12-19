@@ -26,10 +26,10 @@ struct Person {
 ```
 $jsonlint file.json
 {
-  "age": 19,
-  "email_nickname": "petrov_ivan_98@ya.ru",
-  "first_name": "Michael355",
-  "last_name": "Petrov",
+  "age": 23,
+  "email_nickname": "mihel-09@mail.ru",
+  "first_name": "Michael",
+  "last_name": "Igorevich",
   "phone": "8(916)347-33-35"
 }
 ```
