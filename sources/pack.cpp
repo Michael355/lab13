@@ -23,13 +23,13 @@ struct Person {
 
 Person getInfo() {
 	class Person file;
-  file.first_name = "Ivan";
-	file.last_name = "Petrov";
-	file.email.nickname = "petrov_ivan_98@ya.ru";
-	file.age = 19;
-	file.phone = "8(800)555-35-35";
+  file.first_name = "Michael";
+	file.last_name = "Igorevich";
+	file.email.nickname = "mihel-09@mail.ru";
+	file.age = 23;
+	file.phone = "8(916)347-33-35";
 	return file;
-}
+
 
 
 int main(int argc, char* argv[]) {
